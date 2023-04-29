@@ -1,0 +1,58 @@
+body{
+
+    margin: 0;
+    padding: 0;
+   
+}
+
+.header-nav{
+
+    background-color: #FFF9E7;
+}
+
+.slider-section{
+
+    margin-top: 100px;
+}
+.slider-section2 {
+    padding-left: 172px;
+}
+
+.heilight-font{
+
+    font-weight: 700;
+}
+
+.navbar-brand{
+    font-weight: 700;
+}
+
+ul li{
+
+    padding: 15px;
+    margin-left: 20px;
+}
+.sl-color{
+    color: #7A71D8;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.recent-w{
+
+    margin-top: 150px;
+}
+
+h2{
+    font-weight: 700;
+}
+
+.card{
+
+    border: none;
+
+}
+
+.work-section{
+
+    margin-top: 15px;
+}
