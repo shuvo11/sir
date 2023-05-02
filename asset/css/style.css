@@ -61,7 +61,13 @@ h2{
     margin-top: 200px;
 
 }
-.brand-image{
+.card{
 
-  
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 13px;
+}
+.Service-section{
+
+    margin-top: 150px;  
 }
