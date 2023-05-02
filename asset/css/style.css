@@ -69,5 +69,17 @@ h2{
 }
 .Service-section{
 
-    margin-top: 150px;  
+    margin-top: 50px;  
+    padding: 50px;
+}
+
+.Service-solving{
+
+    margin-top: 50px;
+    
+}
+
+.section-portfolio{
+
+    padding: 100px;
 }
