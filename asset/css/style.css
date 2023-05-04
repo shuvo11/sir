@@ -10,13 +10,8 @@ body{
     background-color: #FFF9E7;
 }
 
-.slider-section{
 
-    margin-top: 100px;
-}
-.slider-section2 {
-    padding-left: 172px;
-}
+
 
 .heilight-font{
 
@@ -37,37 +32,11 @@ ul li{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.recent-w{
-
-    margin-top: 150px;
-}
-
 h2{
     font-weight: 700;
 }
-
-.card{
-
-    border: none;
-
+.protfolio{
+    background-color: #e8e8e8;
+   
 }
 
-.work-section{
-
-    margin-top: 15px;
-}
-.work-Brand{
-
-    margin-top: 200px;
-
-}
-.card{
-
-    border: none;
-    box-shadow: 5px 5px 10px lightgray;
-    border-radius: 13px;
-}
-.Service-section{
-
-    margin-top: 150px;  
-}
