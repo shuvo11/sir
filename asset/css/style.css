@@ -26,6 +26,7 @@ ul li {
 
     padding: 15px;
     margin-left: 20px;
+    font-weight: 500;
 }
 
 .sl-color {
@@ -51,4 +52,10 @@ h2 {
 .card{
 
     border: none;
+}
+.footer{
+
+    background-color: #F16232;
+    color: white;
+  
 }
